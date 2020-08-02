@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4162afd5-af16-4c1f-8d4b-47feaa386f22" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4nKiJAFMzhOLTgTR7O2jocFBf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src/lib" />
+    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace-javaEE/BombermanWeb" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="adapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/client" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.clientMain">
+    <configuration name="clientMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client.MainClient" />
+      <module name="bombermanClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serveurMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="serveur.MainServeur" />
+      <module name="bombermanClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.clientMain" />
+      <item itemvalue="Application.serveurMain" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4162afd5-af16-4c1f-8d4b-47feaa386f22" name="Default Changelist" comment="" />
+      <created>1582210671193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582210671193</updated>
+      <workItem from="1582210675099" duration="5887000" />
+      <workItem from="1582241107759" duration="40411000" />
+      <workItem from="1582582076279" duration="35074000" />
+      <workItem from="1582761555797" duration="466000" />
+      <workItem from="1582796690172" duration="2677000" />
+      <workItem from="1582807614723" duration="25843000" />
+      <workItem from="1583159720805" duration="73000" />
+      <workItem from="1583332737055" duration="5000" />
+      <workItem from="1583333825627" duration="1220000" />
+      <workItem from="1583414116610" duration="633000" />
+      <workItem from="1583506460870" duration="1105000" />
+      <workItem from="1583699453569" duration="1016000" />
+      <workItem from="1583801232998" duration="2370000" />
+      <workItem from="1583937591152" duration="665000" />
+      <workItem from="1583942675866" duration="316000" />
+      <workItem from="1583950093321" duration="599000" />
+      <workItem from="1584095343600" duration="2798000" />
+      <workItem from="1584142196528" duration="25000" />
+      <workItem from="1585306964222" duration="635000" />
+      <workItem from="1585588805676" duration="34000" />
+      <workItem from="1585676466842" duration="12124000" />
+      <workItem from="1585832294523" duration="26000" />
+      <workItem from="1585832336668" duration="3315000" />
+      <workItem from="1585921589754" duration="595000" />
+      <workItem from="1585929375038" duration="28000" />
+      <workItem from="1586300463101" duration="2483000" />
+      <workItem from="1586352872005" duration="608000" />
+      <workItem from="1586355078947" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

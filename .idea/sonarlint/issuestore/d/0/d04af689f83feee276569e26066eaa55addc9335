@@ -1,0 +1,26 @@
+
+—squid:S1192m"tDefine a constant instead of duplicating this literal "Mauvais format du fichier: la carte doit etre close" 4 times.(ŠÕº„úÿÿÿÿ8­Ü«ä‡.
+csquid:S00112o"FDefine and throw a dedicated exception instead of using a generic one.(Ê³†şÿÿÿÿ
+^squid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(ğ©¦‘
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›†òÌ
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(—ï—úÿÿÿÿ8­Ü«ä‡.
+Tsquid:S1197"8Move the array designator from the variable to the type.(µˆ›Şùÿÿÿÿ
+|squid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(óª¼ÿÿÿÿÿ8­Ü«ä‡.
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(âé²»8­Ü«ä‡.
+Vsquid:S1197"8Move the array designator from the variable to the type.(ÓŒÓ 8­Ü«ä‡.
+vsquid:S00116 "WRename this field "start_agents" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÓŞ8­Ü«ä‡.
+usquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑûŸùúÿÿÿÿ8­Ü«ä‡.
+jsquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(¿šÇ¨ıÿÿÿÿ8­Ü«ä‡.
+osquid:S2095+"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¬êÌ£şÿÿÿÿ8­Ü«ä‡.
+jsquid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(ÓˆúŞüÿÿÿÿ8­Ü«ä‡.
+usquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¿šÇ¨ıÿÿÿÿ8­Ü«ä‡.
+jsquid:S2095C"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(À¼³£8­Ü«ä‡.
+csquid:S00112m"FDefine and throw a dedicated exception instead of using a generic one.(ŠÕº„úÿÿÿÿ
+msquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«™"8­Ü«ä‡.
+nsquid:S00116"QRename this field "size_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¶’úÿÿÿÿ
+~squid:S00116"_Rename this field "start_brokable_walls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŒÓ 8­Ü«ä‡.
+nsquid:S00116"QRename this field "size_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü£°üÿÿÿÿ
+jsquid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(â‹®¸üÿÿÿÿ8­Ü«ä‡.
+nsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âé²»8­Ü«ä‡.
+ssquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‰Ôıÿÿÿÿ8­Ü«ä‡.

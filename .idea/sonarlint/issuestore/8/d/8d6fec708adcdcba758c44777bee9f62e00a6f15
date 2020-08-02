@@ -1,0 +1,73 @@
+
+vsquid:S00116%"WRename this field "ground_Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ„û8ûÆşá‡.
+jsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íõÉ
+nsquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëƒúèûÿÿÿÿ
+lsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¦Íäÿÿÿÿÿ
+@squid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148À"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íõÉ
+isquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”É¬i
+isquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨¾
+Msquid:S1948:"*Make "listInfoItems" private or transient.(×¡Şæøÿÿÿÿ8ûÆşá‡.
+@squid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+squid:S1319Ù"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ş÷çŠÿÿÿÿÿ
+@squid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+•squid:S1319Î"xThe type of the "listInfoItems" object should be an interface such as "List" rather than the implementation "ArrayList".(Ää•ıÿÿÿÿ
+rsquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¨«ºúÿÿÿÿ8ïïıšˆ.
+@squid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:UselessImportCheck".Remove this unused import 'client.MainClient'.(ÍŞÀ8‘ë›ˆ.
+¥squid:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8Ü…ĞŒ.
+@squid:S1148ö"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¸"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:S1197?"8Move the array designator from the variable to the type.(¶Åá±şÿÿÿÿ
+jsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóèï
+@squid:S1148Û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(•¦Íäÿÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”É¬i
+Msquid:S1948<"*Make "listInfoBombs" private or transient.(–ÕâŒşÿÿÿÿ8ûÆşá‡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›†òÌ
+–squid:S1319Î"yThe type of the "listInfoAgents" object should be an interface such as "List" rather than the implementation "ArrayList".(Ää•ıÿÿÿÿ
+jsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íõÉ
+rsquid:S00116+"SRename this field "taille_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°»µÛ8ûÆşá‡.
+lsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ğ¨úıÿÿÿÿ
+isquid:S3776^"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¶øÂÁ
+@squid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S19488"+Make "listInfoAgents" private or transient.(ì¿”êıÿÿÿÿ8ûÆşá‡.
+isquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨¾
+~squid:S00116#"_Rename this field "brokable_walls_Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–’µ†8ûÆşá‡.
+squid:S1319İ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(î§âòøÿÿÿÿ
+isquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´é—
+osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ää•ıÿÿÿÿ
+@squid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+rsquid:S00116)"SRename this field "taille_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğç±¤8ûÆşá‡.
+Ksquid:S1948B"(Make "client" transient or serializable.(‚Ø–øùÿÿÿÿ8Äß½æˆ.
+jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóèï
+isquid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨¾
+gsquid:S00100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã“Åù
+@squid:S1148¨"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148§"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S2178ğ"Correct this "&" to "&&".(’–³üÿÿÿÿ8ûÆşá‡.
+•squid:S1319Î"xThe type of the "listInfoBombs" object should be an interface such as "List" rather than the implementation "ArrayList".(Ää•ıÿÿÿÿ
+jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóèï
+@squid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íõÉ
+osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(£ğ¨úıÿÿÿÿ
+@squid:S1148À"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+wsquid:S00116?"ZRename this field "breakable_walls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Åá±şÿÿÿÿ
+usquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(†õÚÀøÿÿÿÿ
+?squid:S3010N"!Remove this assignment of "last".(Íƒá´8”ıÚäˆ.
+Qsquid:S1161^":Add the "@Override" annotation above this method signature(¶øÂÁ
+osquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(°€ˆ
+squid:S1319R"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×•’¸8Ê§Æâ‡.
+hsquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨¾
+@squid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”É¬i
+=squid:S2178ô"Correct this "&" to "&&".(É Şàşÿÿÿÿ8ûÆşá‡.
+Gsquid:S1068×"(Remove this unused "last" private field.(Ëğ¨8ıÜñˆ‹.

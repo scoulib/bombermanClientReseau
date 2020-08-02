@@ -1,0 +1,22 @@
+
+bsquid:S3252j"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Â‰¯	8å½ƒæ‡.
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(é¯âÒ8“¬ðæ‡.
+Nsquid:S1135r"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+zsquid:S1450"\Remove the "affichageTurn" field and declare it as a local variable in the relevant methods.(Ëœ±û8”†îæ‡.
+Esquid:S1604R"(Make this anonymous inner class a lambda(¢Šà8å½ƒæ‡.
+Ksquid:S1604\"(Make this anonymous inner class a lambda(ãýÑüþÿÿÿÿ8å½ƒæ‡.
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚…±ÿÿÿÿÿ8å½ƒæ‡.
+dsquid:S3252z"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Œ£ú¬øÿÿÿÿ8å½ƒæ‡.
+Ksquid:S1604:"(Make this anonymous inner class a lambda(äî¯óüÿÿÿÿ8å½ƒæ‡.
+psquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¾ÔÏ8å½ƒæ‡.
+dsquid:S3252{"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ú‚ÿçÿÿÿÿÿ8å½ƒæ‡.
+isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(†óÔ¶8”†îæ‡.
+Ksquid:S1604G"(Make this anonymous inner class a lambda(Ã…Öúÿÿÿÿ8å½ƒæ‡.
+Fsquid:S1604o"(Make this anonymous inner class a lambda(Õ°÷¡8å½ƒæ‡.
+psquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øìþ˜8å½ƒæ‡.
+\squid:S1854s"9Remove this useless assignment to local variable "value".(ÈúÌûÿÿÿÿ8“¬ðæ‡.
+Msquid:S1481s"*Remove this unused "value" local variable.(ÈúÌûÿÿÿÿ8“¬ðæ‡.
+hsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(©é08”†îæ‡.
+Ysquid:UselessImportCheck".Remove this unused import 'client.MainClient'.(ÍÞÀ8ÄÃ©Žˆ.
+psquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×–¹Ä8å½ƒæ‡.
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ

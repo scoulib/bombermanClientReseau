@@ -1,0 +1,37 @@
+
+squid:S2159¬"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(¦Öâñÿÿÿÿÿ8 ¥òˆ.
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¥õ‡òÿÿÿÿÿ8‹´úšˆ.
+Msquid:S20936"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ã¾«òˆ.
+Fsquid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹Š±òˆ.
+Gsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ¥òˆ.
+lsquid:MaximumInheritanceDepthd"<This class has 6 parents which is greater than 5 authorized.(–§èÍ8 ¥òˆ.
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(ßßúìşÿÿÿÿ8¨Ğ±òˆ.
+Ysquid:S26968"6Make the enclosing method "static" or remove this set.(ØŒåÚüÿÿÿÿ8¦õˆ.
+ squid:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…8 ¥òˆ.
+squid:S2159¼"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(œ¼˜ºûÿÿÿÿ8 ¥òˆ.
+\squid:S2589¼"8Remove this expression which always evaluates to "false"(œ¼˜ºûÿÿÿÿ8 ¥òˆ.
+fsquid:CallToDeprecatedMethod"2Remove this use of "Observable"; it is deprecated.(…Îòşÿÿÿÿ8ÓÈÄˆ.
+wsquid:S1450"ZRemove the "viewCommand" field and declare it as a local variable in the relevant methods.(Ä¹âI8¦õˆ.
+Tsquid:S26969"6Make the enclosing method "static" or remove this set.(§ò±¢8¦õˆ.
+wsquid:S1450"ZRemove the "inputStream" field and declare it as a local variable in the relevant methods.(±ú£<8îú±˜ˆ.
+Ksquid:S1659i"(Declare "motDePasse" on a separate line.(‡åºûÿÿÿÿ8 ¥òˆ.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¢ÃÃ€ûÿÿÿÿ8¦õˆ.
+Ysquid:S2696D"6Make the enclosing method "static" or remove this set.(¬åÚšúÿÿÿÿ8Ô¨²Œ.
+Tsquid:S2696G"6Make the enclosing method "static" or remove this set.(ÆÕÅ£8¦õˆ.
+ squid:S1186Â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…8 ¥òˆ.
+Ysquid:S2696."6Make the enclosing method "static" or remove this set.(™ö«ûÿÿÿÿ8Ó÷æˆ.
+Ysquid:S2696<"6Make the enclosing method "static" or remove this set.(Œç¬ëÿÿÿÿÿ8¦õˆ.
+7squid:S1700i"Rename field "login"(‡åºûÿÿÿÿ8 ¥òˆ.
+W
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(‹İ¢8 ¥òˆ.
+Lsquid:S3010%".Remove this assignment of "viewBombermanGame".(£Šñû8íÔˆ.
+Gsquid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ¥òˆ.
+\squid:S2589¬"8Remove this expression which always evaluates to "false"(¦Öâñÿÿÿÿÿ8 ¥òˆ.
+Usquid:S1135U"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¦õˆ.
+Isquid:S1659e"&Declare "mdpLabel" on a separate line.(¾‹ŸÍúÿÿÿÿ8 ¥òˆ.
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¦õˆ.
+Ysquid:S2696L"6Make the enclosing method "static" or remove this set.(ÇÜÙ¡úÿÿÿÿ8²Íä˜ˆ.
+Hsquid:S1068"*Remove this unused "sortie" private field.(ï÷¬ó8—½ˆˆ.
